@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm BooRuleDie</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
+<br>
 
 - 🌱 I’m currently learning **Django**
 
