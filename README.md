@@ -1,3 +1,14 @@
+<head>
+<style>
+.image-wrapper {
+  display: inline-block; /* make the span element an inline block element */
+  width: 100px; /* set the width of the image */
+  height: 100px; /* set the height of the image */
+  overflow: hidden; /* hide any overflowing content */
+}
+</style>
+</head>
+
 <h1 align="center">Hi 👋, I'm BooRuleDie</h1>
 <h3 align="center">A passionate web developer from Turkey</h3>
 <br>
@@ -20,8 +31,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
-<span style="display: inline-block;">  
-  <picture >
+<span class="image-wrapper">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./media/inverted-bash.png">
     <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
   </picture>
