@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- ⚙️ All files I created when learning a new technology <a href="https://github.com/BooRuleDie/technologies">Click Here</a>
+- ⚙️ All files I created when learning a new technology <a href="https://github.com/BooRuleDie/technologies"><b>Click Here</b></a>
 
 - 📫 How to reach me **booruledie+github@gmail.com**
 <br>
