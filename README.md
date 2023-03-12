@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
-  <picture>
+<picture display="inline">
   <source media="(prefers-color-scheme: dark)" srcset="./media/inverted-bash.png">
   <img alt="Text changing depending on mode. Light: 'So light!' Dark: 'So dark!'" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
 </picture>
