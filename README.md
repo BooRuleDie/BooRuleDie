@@ -1,5 +1,5 @@
 <h1 align="center">I'm BooRuleDie</h1>
-<h3 align="center">Full Stack Web Developer <span><img src="./gifs/coding.gif" height="25px"></span>& Web App Pentester<span><img src="./gifs/virus.gif" height="25px"></span></h3>
+<h3 align="center">Full Stack Web Developer & Web App Pentester</h3>
 
 <br>
 
