@@ -1,5 +1,5 @@
 <h1 align="center">I'm BooRuleDie</h1>
-<h3 align="center">Full Stack Web Developer <span><img src="./gifs/coding.gif"></span>& Web App Pentester<span><img src="./gifs/virus.gif"></span></h3>
+<h3 align="center">Full Stack Web Developer <span><img src="./gifs/coding.gif" height="25px"></span>& Web App Pentester<span><img src="./gifs/virus.gif" height="25px"></span></h3>
 
 <br>
 
@@ -15,28 +15,28 @@
 <br>
 
 <h2 align="center">Technologies:</h2>
-<h3 align="left">Frontend</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
   </a>
 </p>
-<h3 align="left">Backend</h3>
+<h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs" />
   </a>
 </p>
-<h3 align="left">Database</h3>
+<h3 align="center">Database</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb" />
   </a>
 </p>
-<h3 align="left">Others</h3>
+<h3 align="center">Others</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,git,docker,postman,neovim,vscode," />
+    <img src="https://skillicons.dev/icons?i=bash,git,docker,postman,neovim,vscode" />
   </a>
 </p>
 
