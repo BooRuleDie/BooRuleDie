@@ -24,7 +24,7 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,nodejs,php" />
   </a>
 </p>
 <h3 align="center">Database</h3>
